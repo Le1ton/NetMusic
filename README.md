@@ -15,7 +15,7 @@ yarn serve
 yarn build
 ```
 
-此项目为仿网易云音乐的移动端音乐app，通过https://neteasecloudmusicapi.vercel.app/#/提供的接口可实现歌单，专辑、歌词和搜索等功能
+此项目为仿网易云音乐的移动端音乐app，通过https://neteasecloudmusicapi.vercel.app/#/ 提供的接口可实现歌单，专辑、歌词和搜索等功能
 
 ### 首页
 ![image](https://user-images.githubusercontent.com/47128435/224928073-9af0a7cd-128d-490f-aa9b-a00a13f2aeed.png)
